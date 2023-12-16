@@ -2,4 +2,4 @@
 
 🛠️ still developing... 
 
-🕰️ waiting for Elemation Engine:a async animation engine for WPF.
+🕰️ waiting for Elemation Engine:an async animation engine for WPF.
